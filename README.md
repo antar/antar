@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey! 👋 Welcome to my profile. #
 
-<!--
-**antar/antar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Personal information
+- 👋 Hi, I’m @antar
+- 👀 I’m interested in software developement and web development
+- 📫 How to reach me contact@wes.fm
 
-Here are some ideas to get you started:
+![Follower](https://img.shields.io/github/followers/antar?label=Github%20followers&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Views](https://komarev.com/ghpvc/?username=antar&label=Views&color=brightgreen&style=flat-square)
+
+# GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antar&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antar&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+
+# Prefered language
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
